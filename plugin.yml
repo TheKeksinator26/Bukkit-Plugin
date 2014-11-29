@@ -1,0 +1,8 @@
+name: BlazeCraft
+main: mod.blazecake.com.Plugin
+version: v0.1
+author: BlazeCake (TheKeksinator26)
+commands:
+  test:
+    usage:  /test
+    description:  Testet das Plugin auf Funktionsfaehigkeit.
